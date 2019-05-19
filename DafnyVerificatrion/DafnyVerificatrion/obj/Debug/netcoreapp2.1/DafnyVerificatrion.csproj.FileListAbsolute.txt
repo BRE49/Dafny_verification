@@ -1,0 +1,11 @@
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\obj\Debug\netcoreapp2.1\DafnyVerificatrion.csprojAssemblyReference.cache
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\obj\Debug\netcoreapp2.1\DafnyVerificatrion.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\obj\Debug\netcoreapp2.1\DafnyVerificatrion.AssemblyInfoInputs.cache
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\obj\Debug\netcoreapp2.1\DafnyVerificatrion.AssemblyInfo.cs
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\bin\Debug\netcoreapp2.1\DafnyVerificatrion.deps.json
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\bin\Debug\netcoreapp2.1\DafnyVerificatrion.runtimeconfig.json
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\bin\Debug\netcoreapp2.1\DafnyVerificatrion.runtimeconfig.dev.json
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\bin\Debug\netcoreapp2.1\DafnyVerificatrion.dll
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\bin\Debug\netcoreapp2.1\DafnyVerificatrion.pdb
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\obj\Debug\netcoreapp2.1\DafnyVerificatrion.dll
+C:\Users\Nemanja.Antic\Desktop\Dafny_verification\DafnyVerificatrion\DafnyVerificatrion\obj\Debug\netcoreapp2.1\DafnyVerificatrion.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DafnyVerificatrion", "DafnyVerificatrion\DafnyVerificatrion.csproj", "{9B70586E-79CA-4772-9EE2-635F4EEAA77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B70586E-79CA-4772-9EE2-635F4EEAA77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B70586E-79CA-4772-9EE2-635F4EEAA77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B70586E-79CA-4772-9EE2-635F4EEAA77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B70586E-79CA-4772-9EE2-635F4EEAA77A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2836A2AD-C76D-46AA-B796-7042F05844F7}
+	EndGlobalSection
+EndGlobal
